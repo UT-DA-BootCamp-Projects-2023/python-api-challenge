@@ -15,10 +15,10 @@
 * Open the Jupyter Source File using Visual studio code
 * Ensure correct Kernell is selected.
 * Ensure api_keys.py is created in the same level as WeatherPy folder below content and your respective API KEY's are added <br>
-   <Comment block--OpenWeatherMap API Key><br>
+   Comment-OpenWeatherMap API Key below<br>
    weather_api_key = "YOUR KEY GOES HERE"<br>
    <br>
-   <Comment block--Geoapify API Key><br>
+   Comment-Geoapify API Key below<br>
    geoapify_key = "YOUR KEY GOES HERE"<br>
 * Execute WeatherPy.ipynb file first as the the Cities.csv extract will be generated which is the input for VaccationPy.ipynb.
 * Run All or Run individual cell code in sequence it is written. Running the code block in between might throw error as the variables used in that code block might be defined in the prior code block. Hence recommended to Run All to ensure it is run in sequence without any error
