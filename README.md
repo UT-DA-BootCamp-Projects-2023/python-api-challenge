@@ -12,7 +12,7 @@
         -- Fig4 <br>
         -- Cities.csv <br>        
 **----------To Execute the Jupyter source file ----------**
-* Create api_keys.py in the same level as WeatherPy folder and add the below content. You need add your own keys in this file. To get your keys visit OpenWeatherMap and geoapify website and register yourself, get the key and update below.
+* Create api_keys.py in the same level as WeatherPy folder and add the below content. You need add your own keys in this file. To get your keys visit OpenWeatherMap and geoapify website and register yourself, get the key and update below.<br>
   Comment-OpenWeatherMap API Key below<br>
    weather_api_key = "YOUR KEY GOES HERE"<br>
    <br>
